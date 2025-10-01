@@ -1,0 +1,88 @@
+{
+  "id": "bluetooth-demo-repo",
+  "title": "Bluetooth Demo Repo",
+  "version": "1.0.0",
+  "menu": [
+    {
+      "id": "bluetooth-start",
+      "title": "Developing with Bluetooth",
+      "menu": [
+        {
+          "match": "sld174-bluetooth-start/index.md",
+          "title": "Index"
+        }
+      ]
+    },
+    {
+      "title": "Getting started",
+      "menu": [
+        {
+          "id": "bluetooth-getting-started-demos-examples",
+          "title": "More Demos and Examples",
+          "menu": [
+            {
+              "match": "sld131-bluetooth-getting-started-demos-examples/index.md",
+              "title": "Index"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fundamentals",
+      "menu": [
+        {
+          "id": "bluetooth-funddamentals-overview",
+          "title": "Overview",
+          "menu": [
+            {
+              "match": "sld214-bluetooth-fundamentals-overview/index.md",
+              "title": "Index"
+            }
+          ]
+        },
+        {
+          "id": "bluetooth-fundamentals-system-performance",
+          "title": "Performance",
+          "menu": [
+            {
+              "match": "sld129-bluetooth-fundamentals-system-performance/index.md",
+              "title": "Introduction"
+            },
+            {
+              "match": "sld129-bluetooth-fundamentals-system-performance/throughput.md",
+              "title": "Throughput"
+            },
+            {
+              "match": "sld129-bluetooth-fundamentals-system-performance/afh.md",
+              "title": "Adaptive Frequency Hopping"
+            },
+            {
+              "match": "sld129-bluetooth-fundamentals-system-performance/current-consumption.md",
+              "title": "Optimizing current consumption"
+            },
+            {
+              "match": "sld129-bluetooth-fundamentals-system-performance/compliance-power-limitations.md",
+              "title": "TX Power Limitations for Regulatory Compliance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mobile Applications",
+      "menu": [
+        {
+          "id": "bluetooth-mobile-applications",
+          "title": "Bluetooth Mobile Applications",
+          "menu": [
+            {
+              "match": "sld127-bluetooth-mobile-applications/index.md",
+              "title": "Index"
+            }
+          ]
+        }
+      ],
+    }
+  ]
+}
