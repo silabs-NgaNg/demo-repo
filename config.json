@@ -17,6 +17,16 @@
       "title": "Getting started",
       "menu": [
         {
+          "id": "bluetooth-getting-started-overview",
+          "title": "Overview",
+          "menu": [
+            {
+              "match": "sld214-bluetooth-fundamentals-overview/index.md",
+              "title": "Index"
+            }
+          ]
+        },
+        {
           "id": "bluetooth-getting-started-demos-examples",
           "title": "More Demos and Examples",
           "menu": [
