@@ -1,1 +1,1 @@
-this is readme for testing
+This repo is just for demo purposes
