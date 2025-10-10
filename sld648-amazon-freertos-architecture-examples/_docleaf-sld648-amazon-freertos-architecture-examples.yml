@@ -1,0 +1,18 @@
+objectType: docLeaf
+id: amazon-freertos-architecture-examples
+access: public
+status: active
+version: "0.1"
+docSpaceParent: ../_docspace-sld173-bluetooth.yml
+authors:
+  - anyone@silabs.com
+contentType: markdown
+title: "Communicating with AWS IoT Services using Bluetooth LE and FreeRTOS"
+description: ""
+sourceDir: .
+menu:
+  items:
+    - Introduction: ./index.md 
+    - FreeRTOS Architecture: ./01-freertos-architecture.md
+    - FreeRTOS Bluetooth LE Sample Apps: ./02-freertos-ble-sample-apps.md
+    - FreeRTOS Aws Test Sample For Bluetooth LE: ./03-freertos-aws-test-sample-for-ble.md

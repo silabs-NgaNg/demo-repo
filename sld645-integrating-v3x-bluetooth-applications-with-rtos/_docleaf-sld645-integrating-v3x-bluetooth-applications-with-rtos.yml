@@ -1,0 +1,18 @@
+objectType: docLeaf
+id: integrating-v3x-bluetooth-applications-with-rtos
+access: public
+status: active
+version: "0.1"
+docSpaceParent: ../_docspace-sld173-bluetooth.yml
+authors:
+  - anyone@silabs.com
+contentType: markdown
+title: "Integrating v3.x Bluetooth Applications with RTOS in SDK v3.x and Higher"
+description: ""
+sourceDir: .
+menu:
+  items:
+    - Introduction: index.md
+    - System Architecture: ./02-system-architecture.md
+    - Application Integration: ./03-application-integration.md
+    - Additional Resources: ./04-additional-resources.md

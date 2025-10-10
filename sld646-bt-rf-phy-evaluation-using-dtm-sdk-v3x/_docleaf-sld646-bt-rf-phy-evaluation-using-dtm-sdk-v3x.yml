@@ -1,0 +1,20 @@
+objectType: docLeaf
+id: bt-rf-phy-evaluation-using-dtm-sdk-v3x
+access: public
+status: active
+version: "0.1"
+docSpaceParent: ../_docspace-sld173-bluetooth.yml
+authors:
+  - anyone@silabs.com
+contentType: markdown
+title: "RF PHY Layer Evaluation in Bluetooth SDK v3.x and Higher"
+description: ""
+sourceDir: .
+menu:
+  items:
+    - Introduction: ./index.md
+    - Basics Of The Direct Test Mode (DTM): ./01-basics-of-the-direct-test-mode-dtm.md
+    - Tests Enabled In The DTM Framework: ./02-tests-enabled-in-the-dtm-framework.md
+    - Testing With Bluetooth NCP Commander: ./03-testing-with-bgtool.md
+    - Testing With The DTM 2-Wire Firmware: ./04-testing-with-the-dtm-2-wire-firmware.md
+    - Test Examples With The BGAPI Commands Test_dtm_tx_v4 And Test_dtm_rx: ./05-test-examples-with-the-bgapi-commands-test-dtm-tx-and-test-dtm-rx.md

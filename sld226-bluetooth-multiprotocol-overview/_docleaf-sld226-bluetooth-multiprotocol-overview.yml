@@ -1,0 +1,12 @@
+objectType: docLeaf
+id: bluetooth-multiprotocol-overview
+access: public
+status: active
+version: "10.1.0"
+docSpaceParent: ../_docspace-sld173-bluetooth.yml
+authors:
+  - anyone@silabs.com
+contentType: markdown
+title: "Overview"
+description: ""
+sourceDir: .

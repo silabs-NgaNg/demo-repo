@@ -1,0 +1,17 @@
+objectType: docLeaf
+id: bluetooth-efr32bg-smart-device-power-consumption
+access: public
+status: active
+version: "10.1.0"
+docSpaceParent: ../_docspace-sld173-bluetooth.yml
+authors:
+  - jrush@silabs.com
+contentType: markdown
+title: "EFR32BG SoC Bluetooth Smart Device Power Consumption Measurements"
+description: ""
+sourceDir: .
+menu:
+  items:
+    - Introduction: ./index.md
+    - Setup: ./01-setup.md
+    - Test Example: ./02-test-example.md

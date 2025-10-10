@@ -1,0 +1,22 @@
+objectType: docLeaf
+id: bluetooth-gatt
+access: public
+status: active
+version: "10.1.0"
+docSpaceParent: ../_docspace-sld173-bluetooth.yml
+authors:
+  - anyone@silabs.com
+contentType: markdown
+title: "GATT Protocol"
+description: ""
+sourceDir: .
+menu:
+  items:
+    - Introduction: index.md
+    - Server and Client Roles: gatt-server-client-roles.md
+    - Acknowledged vs. Unacknowledged: acknowledged-vs-unacknowledged.md
+    - Polymorphic GATT: polymorphic-gatt.md
+    - GATT Caching: gatt-caching.md
+    - Service Change Indication: service-change-indication.md
+    - Using Characteristics Value Types: characteristics-value-types.md
+    - GATT Operation Flowcharts: gatt-flowcharts.md

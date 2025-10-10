@@ -1,0 +1,20 @@
+objectType: docLeaf
+id: ble-interop-testing-report
+access: public
+status: active
+version: "0.1"
+docSpaceParent: ../_docspace-sld173-bluetooth.yml
+authors:
+  - anyone@silabs.com
+contentType: markdown
+title: "Bluetooth Low Energy Interoperability Testing Report"
+description: ""
+sourceDir: .
+menu:
+  items:
+    - Introduction: ./index.md
+    - Test Setup: ./01-test-setup.md
+    - Test Environment: ./02-test-environment.md
+    - Test Cases: ./03-test-cases.md
+    - Test Results: ./04-test-results.md
+    - References: ./05-references.md

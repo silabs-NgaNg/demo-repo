@@ -1,0 +1,12 @@
+objectType: docLeaf
+id: bluetooth-coprocessors-local-event-handling
+access: public
+status: active
+version: "10.1.0"
+docSpaceParent: ../_docspace-sld173-bluetooth.yml
+authors:
+  - anyone@silabs.com
+contentType: markdown
+title: "NCP Local Event Handling"
+description: ""
+sourceDir: .

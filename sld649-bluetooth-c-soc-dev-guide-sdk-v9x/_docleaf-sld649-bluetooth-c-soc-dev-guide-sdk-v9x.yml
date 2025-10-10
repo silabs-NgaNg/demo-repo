@@ -1,0 +1,22 @@
+objectType: docLeaf
+id: bluetooth-c-soc-dev-guide-sdk-v9x
+access: public
+status: active
+version: "0.1"
+docSpaceParent: ../_docspace-sld173-bluetooth.yml
+authors:
+  - anyone@silabs.com
+contentType: markdown
+title: "Silicon Labs Bluetooth C Application Developer's Guide for SDK v10.x"
+description: ""
+sourceDir: .
+menu:
+  items:
+    - Introduction: ./index.md
+    - Application Development Flow: ./02-application-development-flow.md
+    - Project Structure: ./03-project-structure.md
+    - Configuring the Bluetooth Stack and a Wireless Gecko Device: ./04-configuring-bluetooth-stack-and-wireless-gecko-device.md
+    - Bluetooth Stack Event Handling: ./05-bluetooth-stack-event-handling.md
+    - Interrupts: ./06-interrupts.md
+    - Wireless Gecko Resources: ./07-wireless-gecko-resources.md
+    - Application ELF-file: ./08-application-elf-file.md
