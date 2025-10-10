@@ -1,3 +1,0 @@
-# Coexistence: Additional Topics
-
-

@@ -1,3 +1,0 @@
-# Bootloading: Additional Topics
-
-
